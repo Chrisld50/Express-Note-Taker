@@ -7,7 +7,7 @@ the goal of this application was to create a note taker utilizing javascript, np
 Javascript HTML CSS node.js fs express.js path
 
 # Screenshot
-[Alt Text](/Screenshot/Note_Taker_Screenshot.png)
+![Alt Text](/Screenshot/Note_Taker_Screenshot.png)
 
 # Link 
 (https://expressnotetaker1.herokuapp.com/)
